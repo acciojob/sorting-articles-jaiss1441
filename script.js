@@ -24,7 +24,7 @@
         });
 
         // Access the <ul> element by its id
-        const ulElement = document.getElementById("band");
+        const ulElement = document.getElementById("bands");
 
         // Loop through the sorted bands and create <li> elements
         sortedBands.forEach(function(band) {
